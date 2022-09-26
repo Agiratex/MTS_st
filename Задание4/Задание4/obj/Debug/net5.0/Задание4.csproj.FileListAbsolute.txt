@@ -1,0 +1,16 @@
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\bin\Debug\net5.0\Задание4.exe
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\bin\Debug\net5.0\Задание4.deps.json
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\bin\Debug\net5.0\Задание4.runtimeconfig.json
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\bin\Debug\net5.0\Задание4.runtimeconfig.dev.json
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\bin\Debug\net5.0\Задание4.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\bin\Debug\net5.0\ref\Задание4.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\bin\Debug\net5.0\Задание4.pdb
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.csproj.AssemblyReference.cache
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.AssemblyInfoInputs.cache
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.AssemblyInfo.cs
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.csproj.CoreCompileInputs.cache
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\ref\Задание4.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.pdb
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание4\Задание4\obj\Debug\net5.0\Задание4.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\bin\Debug\net5.0\Задание2.exe
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\bin\Debug\net5.0\Задание2.deps.json
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\bin\Debug\net5.0\Задание2.runtimeconfig.json
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\bin\Debug\net5.0\Задание2.runtimeconfig.dev.json
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\bin\Debug\net5.0\Задание2.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\bin\Debug\net5.0\ref\Задание2.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\bin\Debug\net5.0\Задание2.pdb
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.csproj.AssemblyReference.cache
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.AssemblyInfoInputs.cache
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.AssemblyInfo.cs
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.csproj.CoreCompileInputs.cache
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\ref\Задание2.dll
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.pdb
+C:\Users\78952\Desktop\Програмирование\Стажировка\Задание2\Задание2\obj\Debug\net5.0\Задание2.genruntimeconfig.cache
