@@ -9,43 +9,29 @@ namespace Задание3
         public static IEnumerable<(T item, int? tail)> EnumerateFromTail<T>(this IEnumerable<T> enumerable, int? tailLength)
         {
             //If tailLenght isn't defined
-            var result = Enumerable.Empty<(T, int?)>();
+            var result = new List<(T, int?)>();
             if (tailLength == null)
             {
                 foreach (T el in enumerable)
                 {
-                    result = result.Append((el, null));
+                    result.Add((el, null));
                 }
                 return result;
             }
 
-            //Calculate tale lenght in case tailLenght > length(enumerable)
-            int numElements = enumerable.Count();
-            int? tail;
-            if (tailLength > numElements)
-            {
-                tail = numElements - 1;
-                tailLength = numElements;
-            }
-            else
-            {
-                tail = tailLength - 1;
-            }
-
-            //Enumerating from tail
-            int counter = 0;
+            var tail = new List<T>();
             foreach (T el in enumerable)
             {
-                if (counter >= numElements - tailLength)
+                tail.Add(el);
+                if (tail.Count > tailLength)
                 {
-                    result = result.Append((el, tail));
-                    tail--;
+                    result.Add((tail[0], null));
+                    tail.RemoveAt(0);
                 }
-                else
-                {
-                    result = result.Append((el, null));
-                }
-                counter++;
+            }
+            for (int i = 0; i < tail.Count; i++)
+            {
+                result.Add((tail[i], tail.Count - i - 1));
             }
             return result;
         }
@@ -55,7 +41,7 @@ namespace Задание3
         static void Main(string[] args)
         {
             int[] a = new int[5] { 1, 2, 3, 4, 5 };
-            foreach (var el in Enumeration.EnumerateFromTail(a, 6))
+            foreach (var el in Enumeration.EnumerateFromTail(a, 0))
             {
                 Console.Write($"{el} ");
             }

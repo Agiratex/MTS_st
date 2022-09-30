@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\78952\\Desktop\\Програмирование\\Стажировка\\Задание3\\Задание3\\Задание3.csproj",
+      "projectUniqueName": "C:\\Users\\78952\\Desktop\\Програмирование\\MTS_st\\Задание3\\Задание3\\Задание3.csproj",
       "projectName": "Задание3",
-      "projectPath": "C:\\Users\\78952\\Desktop\\Програмирование\\Стажировка\\Задание3\\Задание3\\Задание3.csproj",
+      "projectPath": "C:\\Users\\78952\\Desktop\\Програмирование\\MTS_st\\Задание3\\Задание3\\Задание3.csproj",
       "packagesPath": "C:\\Users\\78952\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\78952\\Desktop\\Програмирование\\Стажировка\\Задание3\\Задание3\\obj\\",
+      "outputPath": "C:\\Users\\78952\\Desktop\\Програмирование\\MTS_st\\Задание3\\Задание3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
